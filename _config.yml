@@ -1,21 +1,18 @@
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
+name: Yukyung Kim
+bio: 'A designer from South Korea'
+picture: 'assets/images/yukyung-profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+# url: http://yukyungkim.github.io/
 # your url: http://USERNAME.github.io/
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+facebook: ukyung.kim.9
+instagram: yukyokie
+linkedin: yukyungkim
+github: you2530
+email: you2530@gmail.com
+behance: yukyungkim
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
